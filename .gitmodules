@@ -1,0 +1,3 @@
+[submodule "JADB-1-plotting"]
+	path = JADB-1-plotting
+	url = https://github.com/JobAdsData/JADB-1-plotting.git

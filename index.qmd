@@ -1,0 +1,20 @@
+---
+title: "Building a Job Ads Database from Swedish Digitized Newspapers"
+subtitle: "Historical Labor Markets in Text | University of Graz | 25 April 2026"
+author: "Mathias Johansson, Peter Gladoić Håkansson, Tobias Karlsson, Matti La Mela"
+format:
+  html:
+    theme: flatly
+---
+
+## Presentation
+
+- [Slides (reveal.js)](presentation.html)
+- [Slides (PDF)](presentation.pdf)
+
+## Resources
+
+- [Working paper: Lund Papers in Economic History No. 264 (2026)](paper.pdf)
+- [Interactive dashboard](https://jobadsdata.github.io/jadb-1-timelines/)
+- [HISCO trend browser](https://jobadsdata.github.io/HISCOTrend/)
+- [kb-trend on PyPI](https://pypi.org/project/kb-trend/)

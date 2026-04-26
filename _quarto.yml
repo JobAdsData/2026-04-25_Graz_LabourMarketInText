@@ -1,0 +1,26 @@
+project:
+  type: website
+  title: "Building a Job Ads Database from Swedish Digitized Newspapers"
+  render:
+    - "*.qmd"
+    - "!JADB-1-plotting/"
+  resources:
+    - presentation.pdf
+    - paper.pdf
+
+format:
+  revealjs:
+    theme: [default, custom.scss]
+    slide-number: true
+    transition: none
+    width: 1280
+    height: 720
+    margin: 0.1
+    center: false
+    hash-type: number
+    pdf-separate-fragments: false
+  beamer:
+    theme: metropolis
+    aspectratio: 169
+    fontsize: 10pt
+    pdf-engine: xelatex
